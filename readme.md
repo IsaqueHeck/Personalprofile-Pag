@@ -10,6 +10,7 @@ Este é um projeto desenvolvido como parte do curso da +PraTi. Ele consiste em u
 - Sobre mim
 - Habilidades técnicas (Hard Skills)
 - Habilidades interpessoais (Soft Skills)
+- Projetos
 - Contato e redes sociais
 
 ## 🚀 Tecnologias
